@@ -1,2 +1,0 @@
-# Travlr-Getaways
-Travlr Getaways
